@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there,i'm Ahlam👋
 
 <!--
-**ahlamaltobiti7/ahlamaltobiti7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Engineering Student 
+- 💡 Interested in AI, Embedded Systems, and Robotics 
+- 🌱 Continuously learning and improving my technical skills
+- 🔍 Passionate about building practical and impactful projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- C++
+- Python
+- Java
+- MATLAB
+- Arduino
+- ESP32
+- Git & GitHub
+---
+*"Keep learning. Keep building."*
