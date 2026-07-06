@@ -1,6 +1,5 @@
-## Hi there,i'm Ahlam👋
+## Hi there i'm Ahlam👋
 
-<!--
 ## 🚀 About Me
 - 🎓 Computer Engineering Student 
 - 💡 Interested in AI, Embedded Systems, and Robotics 
